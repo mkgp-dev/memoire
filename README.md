@@ -1,8 +1,9 @@
 # memoire
 
+> [!IMPORTANT]
+> This project is now **discontinued** because I am no longer interested in continuing its development. It remains as a reference for the lessons I learned from The Odin Project, and it will now serve as an archived repository.
+
 A simple Memory Card project submitted for The Odin Project course.
-
-
 
 ### Built With
 
@@ -12,12 +13,8 @@ A simple Memory Card project submitted for The Odin Project course.
 - **Motion** for smooth enter animations for the grid and interactions.
 - **localForage** – persisted best score and difficulty settings.
 
-
-
 ### Credits
 - [PokéAPI](https://pokeapi.co/) + [PokeAPI Sprites](https://github.com/PokeAPI/sprites) via [jsDelivr CDN](https://www.jsdelivr.com/) for Pokémon data and artwork.
-
-
 
 ### Remarks
 
